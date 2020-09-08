@@ -1,0 +1,28 @@
+PODS:
+  - FAPanels (2.0.1)
+  - FSPagerView (0.8.3)
+  - IQKeyboardManagerSwift (6.5.6)
+  - SkyFloatingLabelTextField (3.8.0)
+
+DEPENDENCIES:
+  - FAPanels
+  - FSPagerView
+  - IQKeyboardManagerSwift
+  - SkyFloatingLabelTextField
+
+SPEC REPOS:
+  trunk:
+    - FAPanels
+    - FSPagerView
+    - IQKeyboardManagerSwift
+    - SkyFloatingLabelTextField
+
+SPEC CHECKSUMS:
+  FAPanels: 050291ef601a1dc00fad888f83e74284cb86dd52
+  FSPagerView: 670405b2f18e2a87fa37f20b00de783e562c25a8
+  IQKeyboardManagerSwift: c7df9d2deb356c04522f5c4b7b6e4ce4d8ed94fe
+  SkyFloatingLabelTextField: 5a338412114808e961fe2d14ea2c5452c8b6e4aa
+
+PODFILE CHECKSUM: b7721497aafd0c6731e7d6076a84cd04b0f00241
+
+COCOAPODS: 1.10.0.beta.1
